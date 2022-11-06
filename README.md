@@ -1,2 +1,2 @@
 # Hex-Color-Application
-Veteran - Project Intern'spedia
+This project is the Veteran - Project for Intern'spedia Internship
